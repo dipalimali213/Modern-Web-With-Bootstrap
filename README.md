@@ -11,10 +11,10 @@ It is a comprehensive repository dedicated to mastering the Bootstrap framework 
 
 ## 📂 Repository Structure  
 ModernWebWithBootstrap  
-├── examples/ # Real-world examples projects 
-├── components/ # Demos of Bootstrap components 
-├── utilities/ # Guides for Bootstrap utilities 
-├── customizations/ # Tips for customizing Bootstrap
+├── examples/ # Real-world examples projects.
+├── components/ # Demos of Bootstrap components.
+├── utilities/ # Guides for Bootstrap utilities. 
+├── customizations/ # Tips for customizing Bootstrap.
 
 ## 🌟 Why Bootstrap?
 
